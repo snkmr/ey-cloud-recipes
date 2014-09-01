@@ -158,3 +158,6 @@
   # postgresql9_pg_buffercache "postgres"
   # postgresql9_pg_freespacemap "postgres"
 # end
+
+# shirasagi
+include_recipe "timezone"

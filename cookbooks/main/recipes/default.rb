@@ -162,3 +162,4 @@
 # shirasagi
 include_recipe "timezone"
 include_recipe "mongodb"
+include_recipe "mecab"
